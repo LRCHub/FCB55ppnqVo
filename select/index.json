@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "x",
+  "base_artist": "平葵",
+  "createdAt": "2025-12-17T14:40:04.712548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Predator X",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Predator_X_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rated \"X\" - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/02_Rated__X__-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "D-Generation X",
+      "artist": "[soundtrack]",
+      "has_synced": false,
+      "path": "select/03_D-Generation_X_[soundtrack].txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Elena X",
+      "artist": "Riff",
+      "has_synced": true,
+      "path": "select/04_Elena_X_Riff.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "X&Y",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/05_X&Y_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "X",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/06_X_f(x).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Audio X",
+      "artist": "Cypress Hill featuring Barron Ricks feat. Barron Ricks",
+      "has_synced": true,
+      "path": "select/07_Audio_X_Cypress_Hill_featuring_Barron_Ricks_feat._Barron_Ricks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Audio X (feat. Barron Ricks)",
+      "artist": "Cypress Hill",
+      "has_synced": true,
+      "path": "select/08_Audio_X_(feat._Barron_Ricks)_Cypress_Hill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "X Offender",
+      "artist": "Blondie feat. Craig Leon",
+      "has_synced": true,
+      "path": "select/09_X_Offender_Blondie_feat._Craig_Leon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "X Offender",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/10_X_Offender_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "X Offender",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/11_X_Offender_Blondie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "X-tasy",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/12_X-tasy_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Garbage - 13 x Forever",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/13_Garbage_-_13_x_Forever_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Transmission (feat. Logic & X Ambassadors)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/14_Transmission_(feat._Logic_&_X_Ambassadors)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nein (prod. Melo Flamez x 2RVR3BEATZ)",
+      "artist": "Yung Hurn",
+      "has_synced": true,
+      "path": "select/15_Nein_(prod._Melo_Flamez_x_2RVR3BEATZ)_Yung_Hurn.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Let X=X",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/16_Let_X=X_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "X",
+      "artist": "Lacquer",
+      "has_synced": false,
+      "path": "select/17_X_Lacquer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "x",
+      "artist": "平葵",
+      "has_synced": false,
+      "path": "select/pl_01_x_平葵.txt"
+    }
+  ]
+}
